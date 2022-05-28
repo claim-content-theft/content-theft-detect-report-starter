@@ -16,6 +16,10 @@ video content comparison
 
 ## how to report suspicious account 
 
+* tiktok
+* youtube
+* douyin
+* bilibili
 
 
 ## record the deleted and banned account 
